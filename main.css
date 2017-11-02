@@ -1,0 +1,49 @@
+
+.header{
+      color:purple;
+      font-size:50px;
+      font-family:verdana;
+      padding:30px;
+      border:pink 10px ridge;
+      border-radius:100px;
+background-color:grey;
+  
+}
+
+  
+    body{
+      background-color:purple;
+   text-align:center;
+     
+}
+  
+    .content {
+    text-align:"center";
+      background-color:red;
+      width:% ;
+      height:500opx;}
+  border:20px dashed yellow;
+    .image{
+      width:100% 
+    }
+      
+      
+    font-size:8px;}
+
+    .intro {color:white;
+    background-color:white=;
+   font-family:courier;
+    text-align:left;
+      width:500%;
+    height:500px;
+    border:50px yellow dashed;
+    }
+    div{color:grey; }
+  
+    .soccer {
+      background-color:black;
+      font-family:courier;
+      width:25%;
+      border:20px purple ridge;
+      padding:10px;
+    }
